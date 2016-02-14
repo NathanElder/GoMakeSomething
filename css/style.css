@@ -116,6 +116,14 @@ margin-right:2em;
   .nav li {
     font-size: 20px;
   }
+  
+  #frontpage {background: url('../images/Wecandoit.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
 }
 
 @media (max-width: 768px){
