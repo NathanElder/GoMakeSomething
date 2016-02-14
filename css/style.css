@@ -30,6 +30,8 @@ h4{font-size: 5em;text-align: center;}
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
+height:100%;
+width:100%;
 }
 
 a.thumbnail, .projectimage{border-radius:50%;}
