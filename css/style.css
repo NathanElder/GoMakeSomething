@@ -28,10 +28,10 @@ h4{font-size: 5em;text-align: center;}
   border-radius: 100px;}
 
 #frontpage {background: url('../images/Wecandoit.jpg') no-repeat left top fixed;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+/*-webkit-background-size: cover;*/
+/*-moz-background-size: cover;*/
+/*-o-background-size: cover;*/
+/*background-size: cover;*/
 }
 
 a.thumbnail, .projectimage{border-radius:50%;}
