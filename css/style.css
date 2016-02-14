@@ -28,7 +28,11 @@ h4{font-size: 5em;text-align: center;}
   filter: alpha(opacity=60);
   border-radius: 100px;}
 
-#frontpage {background: url('../images/Wecandoit.jpg') no-repeat fixed;
+#frontpage {background: url('../images/Wecandoit.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 
 a.thumbnail, .projectimage{border-radius:50%;}
