@@ -1,6 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Pompiere);
 
-body{background-color: ghostwhite;}
+body{background: url('../images/Wecandoit.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
 
 .circle{height: 120px;width: 120px; border-radius:50%;}
 
