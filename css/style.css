@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Pompiere);
-html{height:100%};
+html{height: 100%;}
 body{background-color:ghostwhite;}
 
 .circle{height: 120px;width: 120px; border-radius:50%;}
@@ -116,12 +116,14 @@ margin-right:2em;
   .nav li {
     font-size: 20px;
   }
+    body#background{background-image: fixed !important;}
 }
 
 @media (max-width: 768px){
   .thumbnail {
     border: none;
   }
+    body#background{background-image: fixed !important;}
 p.Mailleintro{padding-bottom:5em;}
 .carousel-control.left, .carousel-control.right {
   font-size: 80px;
