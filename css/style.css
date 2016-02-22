@@ -116,12 +116,14 @@ margin-right:2em;
   .nav li {
     font-size: 20px;
   }
+  body#background{background: fixed !important;}
 }
 
 @media (max-width: 768px){
   .thumbnail {
     border: none;
   }
+  body#background{background: fixed !important;}
 p.Mailleintro{padding-bottom:5em;}
 .carousel-control.left, .carousel-control.right {
   font-size: 80px;
