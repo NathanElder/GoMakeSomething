@@ -115,9 +115,6 @@ margin-right:2em;
   .nav li {
     font-size: 20px;
   }
-  body {
-    background-image: url('../images/Wecandoit.jpg');
-  }
 }
 
 @media (max-width: 768px){
