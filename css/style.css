@@ -116,28 +116,12 @@ margin-right:2em;
   .nav li {
     font-size: 20px;
   }
- body#frontpage {background: url('../images/Wecandoit.jpg') no-repeat center center fixed;
-  background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-background-size: cover;
-}
 }
 
 @media (max-width: 768px){
   .thumbnail {
     border: none;
   }
-  
-  body#frontpage {background: url('../images/Wecandoit.jpg') no-repeat center center fixed;
-  background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-background-size: cover;
-}
-  
-  
-  
 p.Mailleintro{padding-bottom:5em;}
 .carousel-control.left, .carousel-control.right {
   font-size: 80px;
