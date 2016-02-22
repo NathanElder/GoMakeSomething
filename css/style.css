@@ -33,7 +33,7 @@ body#frontpage {background: url('../images/Wecandoit.jpg') no-repeat center cent
   -o-background-size: cover;
   -webkit-background-size: cover;
 }
-body#frontpage{background-position:fixed;}
+body#frontpage{background-position:fixed!important;}
 
 a.thumbnail, .projectimage{border-radius:50%;}
 
