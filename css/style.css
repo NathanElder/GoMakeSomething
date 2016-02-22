@@ -32,7 +32,6 @@ body#frontpage {background: url('../images/Wecandoit.jpg') no-repeat center cent
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
-     position: fixed;
 }
 
 a.thumbnail, .projectimage{border-radius:50%;}
