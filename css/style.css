@@ -32,6 +32,7 @@ div#frontpage{width:100%;
     background-image:url("../images/Wecandoit.jpg");
     background-size:cover;
     position: fixed;
+    background-position:center center;
     z-index:-1;
 }
 
