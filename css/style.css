@@ -50,6 +50,22 @@ a.thumbnail:hover, a.thumbnail:focus{
   box-shadow:inset 0px 0px 0px 5px black;
 }
 
+/*POPUP TEXT*/
+.post p.popup{position:absolute;
+bottom:0px;
+left:0px;
+color: #03f2fc;
+font-size: 35px;
+text-align: center;
+-webkit-filter:drop-shadow(4px 4px 5px black);
+filter:drop-shadow(4px 4px 5px black);
+visibility:hidden;}
+
+.post:hover p.popup {
+visibility:visible;
+-webkit-transform:rotate(-15deg);
+}
+
 .nav li {
   margin-top: 12px;
   font-size: 24px;
