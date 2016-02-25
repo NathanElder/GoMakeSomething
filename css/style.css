@@ -51,7 +51,7 @@ a.thumbnail:hover, a.thumbnail:focus{
 }
 
 /*POPUP TEXT*/
-.post p.popup{position:absolute;
+p.popup{position:absolute;
 bottom:0px;
 left:0px;
 color: #03f2fc;
