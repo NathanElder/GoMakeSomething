@@ -61,7 +61,7 @@ text-align: center;
 filter:drop-shadow(4px 4px 5px black);
 visibility:hidden;}
 
-.post:hover p.popup {
+.post:hover .post:focus p.popup {
 visibility:visible;
 -webkit-transform:rotate(-15deg);
 }
