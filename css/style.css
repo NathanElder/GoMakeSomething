@@ -38,7 +38,6 @@ div#frontpage{width:100%;
     position: fixed;
     background-position: center;
     z-index:-1;
-    opacity:.5;
 }
 
 a.thumbnail, .projectimage{border-radius:50%;}
