@@ -42,7 +42,9 @@ div#frontpage{width:100%;
 
 a.thumbnail, .projectimage{border-radius:50%;}
 
-.post{background-color: rgba(29, 206, 221, 0.7); height: 330px;border-radius: 3em;padding-top:1%;}
+.post{background-color: rgba(29, 206, 221, 0.7); height: 330px;border-radius: 3em;padding-top:1%;
+ -webkit-filter: drop-shadow(8px 8px 10px black); 
+ filter: drop-shadow(8px 8px 10px black);}
 
 a.thumbnail:hover, a.thumbnail:focus{
   box-shadow:inset 0px 0px 0px 5px black;
