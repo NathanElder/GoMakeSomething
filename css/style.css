@@ -99,7 +99,7 @@ a.thumbnail:hover, a.thumbnail:focus{
 
 .carousel {background-color: ghostwhite;margin-top: -10em;margin-bottom: -2em;}
 
-.container{margin-bottom: -90px; padding-top: 10px; height: 100%;}
+.container{height: 100%;padding-top:20px;}
 
 .footerleft, .footerright{font-size: 1.8em;background-color: rgba(255, 255, 255, 0.4);border-radius: 20px;}
 
