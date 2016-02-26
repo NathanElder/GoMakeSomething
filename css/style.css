@@ -99,8 +99,8 @@ a.thumbnail:hover, a.thumbnail:focus{
 
 .carousel {background-color: ghostwhite;margin-top: -10em;margin-bottom: -2em;}
 
-/*.container{height: 100%;padding-top:2em;}*/
-.container{height: 1050px; padding-top:20px;}
+.container{height: 100%;padding-top:2em;}
+
 .footerleft, .footerright{font-size: 1.8em;background-color: rgba(255, 255, 255, 0.4);border-radius: 20px;}
 
 p.Mailleintro{font-size: 1.8em;padding-bottom:2em;}
