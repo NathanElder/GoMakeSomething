@@ -10,9 +10,9 @@ body{background-color:ghostwhite;}
 
 h1{text-align: center;font-size: 5em; text-shadow:2px 2px 0px #ffffff;}
 
-.indexpage{text-align: center;font-size: 3em;text-shadow:2px 2px 0px #ffffff;}
+h2.indexpage{text-align: center;font-size: 3em;text-shadow:2px 2px 0px #ffffff;}
 
-
+p.lead{font-size: 2em;}
 
 h2{text-align: center;font-size: 40px;font-weight: bold;}
 
