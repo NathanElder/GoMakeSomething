@@ -10,7 +10,7 @@ h1{text-align: center;font-size: 5em; text-shadow:2px 2px 0px #ffffff;}
 
 .indexpage{text-align: center;font-size: 3em;text-shadow:2px 2px 0px #ffffff;}
 
-.lead{font-size: 3em;}
+.lead{font-size: 2.5em;}
 
 h2{text-align: center;font-size: 40px;font-weight: bold;}
 
@@ -131,6 +131,7 @@ margin-right:2em;
   .thumbnail {
     border: none;
   }
+  .lead{font-size: 3em;}
  body#background{background-image: fixed !important;}
  p.Mailleintro{padding-bottom:5em;}
 .carousel-control.left, .carousel-control.right {
