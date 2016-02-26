@@ -131,7 +131,7 @@ margin-right:2em;
   .thumbnail {
     border: none;
   }
-  .lead{font-size: 60em;}
+  .lead{font-size: 60px;}
  body#background{background-image: fixed !important;}
  p.Mailleintro{padding-bottom:5em;}
 .carousel-control.left, .carousel-control.right {
