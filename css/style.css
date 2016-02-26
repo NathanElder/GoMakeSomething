@@ -120,6 +120,7 @@ margin-right:2em;
 /*MEDIA QUERIES*/
 
 @media (max-width: 992px){
+   .lead{font-size: 2.5em;}
   .carousel-control.left, .carousel-control.right {
     top:25%;
   }
@@ -130,7 +131,6 @@ margin-right:2em;
 }
 
 @media (max-width: 768px){
-  .lead{font-size: 2.8em;}
   .thumbnail {
     border: none;
   }
